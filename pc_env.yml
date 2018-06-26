@@ -1,10 +1,10 @@
-name: piradise
+name: piradise-pc
 channels:
     - https://conda.anaconda.org/menpo
     - conda-forge
 dependencies:
     - python==3.5.2
+    - opencv
     - numpy
     - matplotlib
-    - opencv3
     - pip
